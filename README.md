@@ -1,8 +1,8 @@
-#Patient Management System
+# Patient Management System
 
 This is a patient management system. So the Doctor or assistant can use this system to easily set appointment and manage appointment.
 
-#Functions are:
+## Functions are:
 
 1.Patient can easily make appointment with doctors
 
@@ -10,15 +10,15 @@ This is a patient management system. So the Doctor or assistant can use this sys
 
 3.Patient can easily be searched
 
-#Limitations:
+## Limitations:
 Becasue of the limit of time, a universal dashboard for all the patients are implemented. 
 The usecase is limited to be used by doctors and assistant only.
 
-#Future improvement.
+## Future improvement.
 A login for every patient, so that privacy can be protected.
 A dashboard for patient to view patient's own appointment.
 
-#How to run locally
+## How to run locally
 
 download and upzip
 open terminal
@@ -40,7 +40,7 @@ npm start
 
 //open chrome type http://localhost:3000/ in searchbar
 
-#implementation
+## implementation
 
 MERN stack MongoDB, Express, React, Node, after the four key technologies that make up the stack.
 
