@@ -36,5 +36,5 @@ cd patient/client
 npm i
 npm start
 
-//open chrome type http://localhost:3000/. in searchbar
+//open chrome type http://localhost:3000/ in searchbar
 
