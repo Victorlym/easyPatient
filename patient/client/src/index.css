@@ -1,0 +1,122 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 9pt;
+  width: 100%;
+}
+
+h2 {
+  font-size: 30px;
+  margin-left: 10px;
+  color: rgb(94, 120, 226);
+}
+
+input {
+  padding: 8px;
+}
+
+.button {
+  background-color: rgb(94, 120, 226);
+  margin: 10px;
+  padding: 10px;
+}
+
+.icon {
+  width: 15px;
+  margin-right: 5px;
+}
+
+.main {
+  text-align: center;
+  padding: 15px;
+  margin-right: 10px;
+  /* width: 100%; */
+}
+
+.search {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 20px;
+}
+
+.field {
+  display: block;
+}
+
+.btn {
+  font-size: 9pt;
+  background: none;
+  border: none;
+}
+
+.homeBtn {
+  background-color: rgb(94, 120, 226);
+  border: none;
+  color: #f6f6f6;
+  padding: 8px;
+  margin-top: 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.edit-patient,
+.create-patient {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+}
+
+.myForm {
+  margin: 40px auto;
+}
+.myForm .btn {
+  margin: 10px;
+}
+
+.form-content {
+  justify-content: space-between;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.form-control {
+  width: 500px;
+  font-size: 9pt;
+}
+
+.alert {
+  margin: auto;
+  font-size: 9pt;
+}
+
+.require-star {
+  color: red;
+}
+
+body {
+  background: #f6f6f6;
+  color: #000000;
+  min-height: 100%;
+  width: 100%;
+}
+
+#id {
+  width: 100%;
+}
+
+.avatar-large {
+  width: 200px;
+  height: 200px;
+}
+
+.avatar-small {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
